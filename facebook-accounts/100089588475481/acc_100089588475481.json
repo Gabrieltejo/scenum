@@ -151,6 +151,18 @@
 			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674480271507%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "23.01.2023 13:37 registro",
-	"code2fa": "NGUR6B7JTVG3WIPF7CY34QZAWGZHRPRP"
+	"lastEventDate": "23.01.2023 13:39 registro",
+	"code2fa": "NGUR6B7JTVG3WIPF7CY34QZAWGZHRPRP",
+	"recoveryCodes": [
+		"04665157",
+		"05837092",
+		"41629582",
+		"64235677",
+		"66191216",
+		"72498519",
+		"74935436",
+		"78771844",
+		"91632030",
+		"93592116"
+	]
 }
